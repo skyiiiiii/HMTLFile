@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.colorFont{
+    color: rgb(246, 167, 65);
+    text-align: center;
+    font-weight: bolder;
+}
+
+h2{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(88, 127, 160);
+}
